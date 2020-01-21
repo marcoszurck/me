@@ -1,0 +1,18 @@
+
+/* Criação da classe com a instraucao */
+.center {
+    text-align: center;
+}
+
+.size-img{
+    width: 40%;
+
+}
+
+.bg{
+    background-color: #bdc3c7;
+}
+
+.txt-color{
+    color: white;
+}
